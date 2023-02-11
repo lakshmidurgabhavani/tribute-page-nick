@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+body {
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 2.5;
+}
+
+.container {
+    padding: 5% 5%;
+    text-align: center;
+    background-color: white;
+}
+
+.heading-1 {
+    font-weight: 900;
+    font-size: 80px;
+    color: blue;
+}
+
+.name {
+    font-size: 50px;
+    font-weight: 700;
+    font-family: Roboto;
+}
+
+.date {
+    font-size: 30px;
+    font-weight: 700;
+    font-family: Roboto;
+}
+
+
+h1 {
+    font-weight: 400;
+    padding-bottom: 5px;
+    font-size: 60px;
+    color: grey;
+}
+
+.main-page {
+    background-color: antiquewhite;
+    padding: 2px 5px;
+    color: rgb(3, 56, 102);
+
+}
+
+.main-content {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+    font-weight: 400;
+    font-size: 1.75rem;
+    margin: 55px 17px;
+}
+
+.image {
+    margin-bottom: 1px;
+    height: 700px;
+    width: 700px;
+}
+
+.footer p {
+    font-weight: 200;
+    font-size: 0.8rem;
+}
+
+.p {
+    margin: 1% 1%;
+    font-size: 3.3rem;
+    font-weight: 500;
+    color: antiquewhite
+}
+
+.biography-section {
+    font-weight: 400;
+    text-align: justify;
+}
